@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    // "lib": ["ES2019","ES2020","ES2021","esnext"],
+    "noImplicitAny": true,
+    "noUnusedParameters": true,
+    "noUnusedLocals": true,
+    "noUncheckedIndexedAccess": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}
